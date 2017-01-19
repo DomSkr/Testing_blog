@@ -25,7 +25,9 @@ SECRET_KEY = '!$qye0pp+_wup=lrc(s5vekj9y)o35boqcv-=_jyhsdjs2fr$&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'warpu.pythonanywhere.com',
+]
 
 
 # Application definition
